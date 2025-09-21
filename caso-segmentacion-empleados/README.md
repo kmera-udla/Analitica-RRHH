@@ -3,7 +3,7 @@ Segmentar empleados en clústeres para activar planes diferenciados de RRHH.
 
 ## Contenido
 - `notebooks/Caso_Segmentacion_Empleados.ipynb`
-- `models/`: artefactos de modelo
+- `artifacts/`: artefactos de modelo
 - `data/`: datasets locales
 
 ## Resultados clave
