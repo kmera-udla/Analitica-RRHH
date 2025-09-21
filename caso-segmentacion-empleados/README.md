@@ -2,7 +2,7 @@
 Segmentar empleados en clústeres para activar planes diferenciados de RRHH.
 
 ## Contenido
-- `notebooks/Analisis_Clusters_RRHH_Entregable.ipynb`
+- `notebooks/Caso_Segmentacion_Empleados.ipynb`
 - `models/`: artefactos de modelo
 - `data/`: datasets locales
 
